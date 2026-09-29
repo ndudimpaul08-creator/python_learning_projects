@@ -1,0 +1,26 @@
+Order_ID,Customer_Name,Product,Category,Quantity,Price,Order_Date,Region,Payment_Method
+1001,David,Laptop,Electronics,1,450000,2026-01-05,Lagos,Card
+1002,Sarah,T-Shirt,Clothing,3,15000,2026-01-06,Abuja,Cash
+1003,John,Headphones,Electronics,2,25000,2026-01-07,Lagos,Transfer
+1004,Mary,Sneakers,Footwear,1,35000,2026-01-08,Ibadan,Card
+1005,Daniel,T-Shirt,Clothing,2,15000,2026-01-09,Enugu,Transfer
+1006,Grace,Smartphone,Electronics,1,280000,2026-01-10,Lagos,Card
+1007,Michael,Jeans,Clothing,2,22000,2026-01-11,Abuja,Cash
+1008,Jennifer,Backpack,Accessories,1,18000,2026-01-12,Lagos,Transfer
+1009,Samuel,Watch,Accessories,2,30000,2026-01-13,Port Harcourt,Card
+1010,Esther,Sneakers,Footwear,2,35000,2026-01-14,Ibadan,Transfer
+1011,Paul,Keyboard,Electronics,1,20000,2026-01-15,Lagos,Cash
+1012,Daniel,Mouse,Electronics,3,10000,2026-01-16,Enugu,Card
+1013,Grace,Dress,Clothing,1,40000,2026-01-17,Lagos,Transfer
+1014,Michael,Backpack,Accessories,2,18000,2026-01-18,Abuja,Cash
+1015,Sarah,Headphones,Electronics,1,25000,2026-01-19,Lagos,Card
+1016,John,Jeans,Clothing,1,22000,2026-01-20,Port Harcourt,Transfer
+1017,Mary,Watch,Accessories,1,30000,2026-01-21,Ibadan,Cash
+1018,David,Smartphone,Electronics,2,280000,2026-01-22,Lagos,Card
+1019,Esther,T-Shirt,Clothing,4,15000,2026-01-23,Abuja,Transfer
+1020,Samuel,Sneakers,Footwear,1,35000,2026-01-24,Enugu,Cash
+1012,Daniel,Mouse,Electronics,3,10000,2026-01-16,Enugu,Card
+1022,Jennifer,Dress,Clothing,2,40000,2026-01-26,Lagos,Transfer
+1023,Paul,Keyboard,Electronics,2,20000,2026-01-27,Abuja,Cash
+1024,Grace,Backpack,Accessories,1,18000,2026-01-28,Lagos,Card
+1025,Michael,Jeans,Clothing,3,22000,2026-01-29,Ibadan,Transfer
